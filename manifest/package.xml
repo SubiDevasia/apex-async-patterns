@@ -5,6 +5,14 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>ExternalCRM</members>
+        <name>ExternalCredential</name>
+    </types>
+    <types>
+        <members>ExternalCRM</members>
+        <name>NamedCredential</name>
+    </types>
+    <types>
         <members>*</members>
         <name>ApexComponent</name>
     </types>
