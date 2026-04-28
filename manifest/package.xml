@@ -29,6 +29,10 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>AsyncJob__e</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>*</members>
         <name>AuraDefinitionBundle</name>
     </types>
